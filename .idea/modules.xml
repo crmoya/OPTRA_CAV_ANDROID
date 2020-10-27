@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/optra CAV.iml" filepath="$PROJECT_DIR$/optra CAV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OPTRA_CAV_ANDROID.iml" filepath="$PROJECT_DIR$/.idea/modules/OPTRA_CAV_ANDROID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OPTRA_CAV_ANDROID.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OPTRA_CAV_ANDROID.app.iml" />
     </modules>
   </component>
 </project>
